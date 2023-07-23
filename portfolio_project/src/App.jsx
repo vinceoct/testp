@@ -10,9 +10,9 @@ import Resume from './components/Resume';
 
 const App = () => {
   return (
-    <div>
-      <Nav />
-      <main>
+    <div className='app'>
+      <Nav className='navbar' />
+      <main className='main'>
         <Routes>
           <Route path="/about" element={<About />} />
           <Route path="/projects" element={<Projects />} />

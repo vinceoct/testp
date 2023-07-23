@@ -4,7 +4,7 @@ import { FaEnvelope, FaLinkedin, FaGithub } from 'react-icons/fa';
 const Contact = () => {
   return (
     <div>
-      <h3>Contact Me</h3>
+      <h2>Contact Me</h2>
       <p>Feel free to get in touch with me using the information below:</p>
       <ul>
         <li>Email: <a href="mailto:lowellcaraballo@gmail.com"><FaEnvelope /> lowellcaraballo@gmail.com</a></li>
