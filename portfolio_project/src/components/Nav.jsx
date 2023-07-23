@@ -20,7 +20,6 @@ const Nav = () => {
         <li>
           <Link to="/resume">Resume</Link>
         </li>
-        {/* Add more navigation links as needed */}
       </ul>
     </nav>
   );
